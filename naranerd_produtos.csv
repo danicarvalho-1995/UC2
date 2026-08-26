@@ -1,0 +1,81 @@
+id_produto,nome,categoria,preco
+1,Console Retro Portátil,Games,300.19
+2,Jogo Aventura Galáctica,Games,60.37
+3,Controle sem Fio Pro,Games,269.95
+4,Jogo RPG Reino Sombrio,Games,243.0
+5,Headset Gamer X7,Games,289.56
+6,Jogo Corrida Turbo,Games,106.43
+7,Mousepad Gigante Dragão,Games,246.65
+8,Jogo Estratégia Império,Games,224.72
+9,Cadeira Gamer Básica,Games,79.64
+10,Jogo Luta Arena Final,Games,255.21
+11,Mangá Guerreiros do Vento Vol.1,Animes/Mangás,77.04
+12,Mangá Guerreiros do Vento Vol.2,Animes/Mangás,26.69
+13,Box Anime Espadachim Lunar,Animes/Mangás,35.1
+14,Mangá Academia de Heróis Vol.3,Animes/Mangás,126.63
+15,Pôster Anime Céu Escarlate,Animes/Mangás,37.36
+16,Mangá Detetive das Sombras Vol.1,Animes/Mangás,53.82
+17,Camiseta Anime Fênix Negra,Animes/Mangás,69.41
+18,Mangá Reino de Cristal Vol.5,Animes/Mangás,62.6
+19,Caderno Anime Sakura,Animes/Mangás,59.2
+20,Squishy Personagem Mascote,Animes/Mangás,63.4
+21,Action Figure Herói Cósmico,Colecionáveis,143.47
+22,Funko Vilão das Trevas,Colecionáveis,371.79
+23,Miniatura Nave Estelar,Colecionáveis,108.34
+24,Estátua Resina Dragão Ancião,Colecionáveis,39.91
+25,Chaveiro Personagem Pixel,Colecionáveis,378.26
+26,Boneco Articulado Samurai,Colecionáveis,358.5
+27,Réplica Espada Lendária Mini,Colecionáveis,317.95
+28,Diorama Cidade Cyberpunk,Colecionáveis,39.39
+29,Card Holográfico Raro,Colecionáveis,396.24
+30,Busto Colecionável Vilã,Colecionáveis,374.07
+31,Camiseta Geek Pixel Art,Roupas e Acessórios,97.49
+32,Moletom Símbolo Aliança,Roupas e Acessórios,87.79
+33,Boné Logo Guilda,Roupas e Acessórios,55.81
+34,Meia Personagem Retro,Roupas e Acessórios,66.83
+35,Mochila Temática RPG,Roupas e Acessórios,109.08
+36,Pulseira Emblema Clã,Roupas e Acessórios,39.55
+37,Jaqueta Bomber Anime,Roupas e Acessórios,125.75
+38,Máscara Cosplay Básica,Roupas e Acessórios,39.74
+39,Card Holográfico Raro (Edição Especial),Colecionáveis,295.87
+40,Mangá Guerreiros do Vento Vol.1 (Edição Especial),Animes/Mangás,126.12
+41,Mangá Guerreiros do Vento Vol.1 (Edição Especial),Animes/Mangás,70.18
+42,Máscara Cosplay Básica (Edição Especial),Roupas e Acessórios,167.81
+43,Jogo RPG Reino Sombrio (Edição Especial),Games,46.84
+44,Moletom Símbolo Aliança (Edição Especial),Roupas e Acessórios,66.41
+45,Controle sem Fio Pro (Edição Especial),Games,79.11
+46,Camiseta Geek Pixel Art (Edição Especial),Roupas e Acessórios,74.92
+47,Box Anime Espadachim Lunar (Edição Especial),Animes/Mangás,93.16
+48,Jogo RPG Reino Sombrio (Edição Especial),Games,319.25
+49,Mangá Guerreiros do Vento Vol.2 (Edição Especial),Animes/Mangás,60.85
+50,Jaqueta Bomber Anime (Edição Especial),Roupas e Acessórios,71.67
+51,Boné Logo Guilda (Edição Especial),Roupas e Acessórios,168.15
+52,Jogo Aventura Galáctica (Edição Especial),Games,296.51
+53,Jogo Aventura Galáctica (Edição Especial),Games,252.08
+54,Mousepad Gigante Dragão (Edição Especial),Games,238.93
+55,Moletom Símbolo Aliança (Edição Especial),Roupas e Acessórios,65.39
+56,Box Anime Espadachim Lunar (Edição Especial),Animes/Mangás,99.48
+57,Jogo Aventura Galáctica (Edição Especial),Games,128.39
+58,Jogo Estratégia Império (Edição Especial),Games,117.31
+59,Mangá Detetive das Sombras Vol.1 (Edição Especial),Animes/Mangás,37.99
+60,Meia Personagem Retro (Edição Especial),Roupas e Acessórios,128.48
+61,Squishy Personagem Mascote (Edição Especial),Animes/Mangás,120.24
+62,Mangá Guerreiros do Vento Vol.1 (Edição Especial),Animes/Mangás,67.48
+63,Busto Colecionável Vilã (Edição Especial),Colecionáveis,213.56
+64,Camiseta Anime Fênix Negra (Edição Especial),Animes/Mangás,120.89
+65,Pulseira Emblema Clã (Edição Especial),Roupas e Acessórios,132.27
+66,Caderno Anime Sakura (Edição Especial),Animes/Mangás,63.6
+67,Controle sem Fio Pro (Edição Especial),Games,316.74
+68,Mochila Temática RPG (Edição Especial),Roupas e Acessórios,79.22
+69,Controle sem Fio Pro (Edição Especial),Games,60.01
+70,Miniatura Nave Estelar (Edição Especial),Colecionáveis,193.74
+71,Jogo Aventura Galáctica (Edição Especial),Games,249.79
+72,Action Figure Herói Cósmico (Edição Especial),Colecionáveis,399.17
+73,Boné Logo Guilda (Edição Especial),Roupas e Acessórios,89.42
+74,Action Figure Herói Cósmico (Edição Especial),Colecionáveis,187.21
+75,Miniatura Nave Estelar (Edição Especial),Colecionáveis,93.72
+76,Squishy Personagem Mascote (Edição Especial),Animes/Mangás,50.74
+77,Réplica Espada Lendária Mini (Edição Especial),Colecionáveis,207.34
+78,Mangá Guerreiros do Vento Vol.1 (Edição Especial),Animes/Mangás,36.07
+79,Mangá Detetive das Sombras Vol.1 (Edição Especial),Animes/Mangás,112.76
+80,Réplica Espada Lendária Mini (Edição Especial),Colecionáveis,122.81

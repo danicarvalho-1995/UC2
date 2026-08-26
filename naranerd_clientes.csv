@@ -1,0 +1,251 @@
+id_cliente,nome,email,cidade
+1,Carla Correia,carla.correia1@email.com,Nova Iguaçu
+2,João Gomes,joão.gomes2@email.com,Cabo Frio
+3,Bruno Rocha,bruno.rocha3@email.com,Cabo Frio
+4,Karina Souza,karina.souza4@email.com,São Gonçalo
+5,Bernardo Freitas,bernardo.freitas5@email.com,Nova Iguaçu
+6,Queila Souza,queila.souza6@email.com,Niterói
+7,Nicolas Gomes,nicolas.gomes7@email.com,Nova Iguaçu
+8,Bruno Lima,bruno.lima8@email.com,São João de Meriti
+9,Gabriela Gomes,gabriela.gomes9@email.com,Niterói
+10,Mariana Nascimento,mariana.nascimento10@email.com,Volta Redonda
+11,Diego Oliveira,diego.oliveira11@email.com,São João de Meriti
+12,Ximena Nascimento,ximena.nascimento12@email.com,Volta Redonda
+13,Felipe Rocha,felipe.rocha13@email.com,Niterói
+14,Ana Rocha,ana.rocha14@email.com,Niterói
+15,Camila Nascimento,camila.nascimento15@email.com,Cabo Frio
+16,Rafael Rocha,rafael.rocha16@email.com,Niterói
+17,Ursula Almeida,ursula.almeida17@email.com,Nova Iguaçu
+18,Queila Cardoso,queila.cardoso18@email.com,São Gonçalo
+19,Sofia Correia,sofia.correia19@email.com,Petrópolis
+20,Ximena Nascimento,ximena.nascimento20@email.com,Cabo Frio
+21,Otávia Lima,otávia.lima21@email.com,Belford Roxo
+22,Bernardo Lima,bernardo.lima22@email.com,Volta Redonda
+23,Henrique Pereira,henrique.pereira23@email.com,Volta Redonda
+24,Felipe Correia,felipe.correia24@email.com,Petrópolis
+25,Nicolas Silva,nicolas.silva25@email.com,Petrópolis
+26,Henrique Dias,henrique.dias26@email.com,São João de Meriti
+27,Ximena Silva,ximena.silva27@email.com,São João de Meriti
+28,Zeca Dias,zeca.dias28@email.com,Volta Redonda
+29,Ximena Cardoso,ximena.cardoso29@email.com,Belford Roxo
+30,Vinícius Pereira,vinícius.pereira30@email.com,São João de Meriti
+31,Pedro Souza,pedro.souza31@email.com,Belford Roxo
+32,Bernardo Nascimento,bernardo.nascimento32@email.com,Duque de Caxias
+33,Camila Freitas,camila.freitas33@email.com,Volta Redonda
+34,Yasmin Oliveira,yasmin.oliveira34@email.com,Rio de Janeiro
+35,Lucas Silva,lucas.silva35@email.com,Belford Roxo
+36,Rafael Oliveira,rafael.oliveira36@email.com,Niterói
+37,Vinícius Rocha,vinícius.rocha37@email.com,São Gonçalo
+38,Henrique Barros,henrique.barros38@email.com,Petrópolis
+39,Vinícius Rocha,vinícius.rocha39@email.com,Niterói
+40,Mariana Barros,mariana.barros40@email.com,Rio de Janeiro
+41,Yasmin Carvalho,yasmin.carvalho41@email.com,Volta Redonda
+42,Otávia Pereira,otávia.pereira42@email.com,Nova Iguaçu
+43,Mariana Dias,mariana.dias43@email.com,São Gonçalo
+44,Ximena Costa,ximena.costa44@email.com,Volta Redonda
+45,Ursula Rocha,ursula.rocha45@email.com,Niterói
+46,Sofia Oliveira,sofia.oliveira46@email.com,Petrópolis
+47,Sofia Freitas,sofia.freitas47@email.com,São João de Meriti
+48,Yasmin Moreira,yasmin.moreira48@email.com,Rio de Janeiro
+49,Rafael Dias,rafael.dias49@email.com,Volta Redonda
+50,Yasmin Gomes,yasmin.gomes50@email.com,Duque de Caxias
+51,Nicolas Moreira,nicolas.moreira51@email.com,Cabo Frio
+52,Rafael Ribeiro,rafael.ribeiro52@email.com,Volta Redonda
+53,Bernardo Silva,bernardo.silva53@email.com,São Gonçalo
+54,Elaine Souza,elaine.souza54@email.com,Petrópolis
+55,Zeca Souza,zeca.souza55@email.com,Cabo Frio
+56,Wesley Lima,wesley.lima56@email.com,Volta Redonda
+57,Nicolas Moreira,nicolas.moreira57@email.com,Nova Iguaçu
+58,Queila Ribeiro,queila.ribeiro58@email.com,São Gonçalo
+59,João Moreira,joão.moreira59@email.com,Petrópolis
+60,Bernardo Moreira,bernardo.moreira60@email.com,Volta Redonda
+61,Rafael Costa,rafael.costa61@email.com,Niterói
+62,João Barros,joão.barros62@email.com,São João de Meriti
+63,Ursula Correia,ursula.correia63@email.com,Volta Redonda
+64,Otávia Souza,otávia.souza64@email.com,São João de Meriti
+65,Carla Barros,carla.barros65@email.com,São Gonçalo
+66,Henrique Correia,henrique.correia66@email.com,Belford Roxo
+67,Otávia Freitas,otávia.freitas67@email.com,São João de Meriti
+68,Gabriela Correia,gabriela.correia68@email.com,São Gonçalo
+69,Ana Moreira,ana.moreira69@email.com,São João de Meriti
+70,Isabela Freitas,isabela.freitas70@email.com,Niterói
+71,Thiago Costa,thiago.costa71@email.com,São João de Meriti
+72,Pedro Moreira,pedro.moreira72@email.com,Volta Redonda
+73,Pedro Freitas,pedro.freitas73@email.com,Volta Redonda
+74,Elaine Moreira,elaine.moreira74@email.com,Cabo Frio
+75,Danilo Cardoso,danilo.cardoso75@email.com,Volta Redonda
+76,Pedro Oliveira,pedro.oliveira76@email.com,São Gonçalo
+77,Karina Araújo,karina.araújo77@email.com,Cabo Frio
+78,Gabriela Nascimento,gabriela.nascimento78@email.com,Rio de Janeiro
+79,Zeca Correia,zeca.correia79@email.com,Petrópolis
+80,Vinícius Araújo,vinícius.araújo80@email.com,Rio de Janeiro
+81,Mariana Rocha,mariana.rocha81@email.com,Duque de Caxias
+82,Lucas Souza,lucas.souza82@email.com,Nova Iguaçu
+83,Camila Silva,camila.silva83@email.com,Petrópolis
+84,Yasmin Freitas,yasmin.freitas84@email.com,Belford Roxo
+85,Ximena Moreira,ximena.moreira85@email.com,Petrópolis
+86,Vinícius Teixeira,vinícius.teixeira86@email.com,Cabo Frio
+87,Bruno Silva,bruno.silva87@email.com,Niterói
+88,Felipe Gomes,felipe.gomes88@email.com,Volta Redonda
+89,Felipe Carvalho,felipe.carvalho89@email.com,Petrópolis
+90,Isabela Gomes,isabela.gomes90@email.com,São Gonçalo
+91,Danilo Araújo,danilo.araújo91@email.com,Belford Roxo
+92,Otávia Dias,otávia.dias92@email.com,Belford Roxo
+93,Gabriela Oliveira,gabriela.oliveira93@email.com,Petrópolis
+94,Aline Moreira,aline.moreira94@email.com,Nova Iguaçu
+95,Felipe Lima,felipe.lima95@email.com,São Gonçalo
+96,Vinícius Correia,vinícius.correia96@email.com,Cabo Frio
+97,Bernardo Gomes,bernardo.gomes97@email.com,Belford Roxo
+98,Aline Lima,aline.lima98@email.com,Duque de Caxias
+99,Rafael Dias,rafael.dias99@email.com,Niterói
+100,Karina Freitas,karina.freitas100@email.com,São Gonçalo
+101,Isabela Costa,isabela.costa101@email.com,Petrópolis
+102,Felipe Correia,felipe.correia102@email.com,Petrópolis
+103,Ximena Nascimento,ximena.nascimento103@email.com,São Gonçalo
+104,Danilo Carvalho,danilo.carvalho104@email.com,Belford Roxo
+105,Felipe Dias,felipe.dias105@email.com,São Gonçalo
+106,Mariana Dias,mariana.dias106@email.com,Duque de Caxias
+107,Bernardo Lima,bernardo.lima107@email.com,Petrópolis
+108,Queila Moreira,queila.moreira108@email.com,Petrópolis
+109,Diego Lima,diego.lima109@email.com,Volta Redonda
+110,Diego Correia,diego.correia110@email.com,Belford Roxo
+111,Lucas Barros,lucas.barros111@email.com,Rio de Janeiro
+112,Ursula Nascimento,ursula.nascimento112@email.com,Volta Redonda
+113,Isabela Freitas,isabela.freitas113@email.com,Volta Redonda
+114,Karina Silva,karina.silva114@email.com,Cabo Frio
+115,Karina Nascimento,karina.nascimento115@email.com,Nova Iguaçu
+116,Aline Gomes,aline.gomes116@email.com,Duque de Caxias
+117,Ana Almeida,ana.almeida117@email.com,Nova Iguaçu
+118,Ursula Moreira,ursula.moreira118@email.com,Niterói
+119,Camila Araújo,camila.araújo119@email.com,Cabo Frio
+120,Carla Pereira,carla.pereira120@email.com,São João de Meriti
+121,Thiago Nascimento,thiago.nascimento121@email.com,São Gonçalo
+122,Bruno Almeida,bruno.almeida122@email.com,Volta Redonda
+123,Aline Carvalho,aline.carvalho123@email.com,Cabo Frio
+124,Henrique Gomes,henrique.gomes124@email.com,Rio de Janeiro
+125,Carla Barros,carla.barros125@email.com,Duque de Caxias
+126,Mariana Ribeiro,mariana.ribeiro126@email.com,Niterói
+127,Karina Ribeiro,karina.ribeiro127@email.com,São João de Meriti
+128,Diego Carvalho,diego.carvalho128@email.com,Petrópolis
+129,Gabriela Pereira,gabriela.pereira129@email.com,Duque de Caxias
+130,Ximena Rocha,ximena.rocha130@email.com,Petrópolis
+131,Thiago Almeida,thiago.almeida131@email.com,Belford Roxo
+132,Pedro Araújo,pedro.araújo132@email.com,Niterói
+133,Henrique Cardoso,henrique.cardoso133@email.com,São João de Meriti
+134,Bernardo Carvalho,bernardo.carvalho134@email.com,Rio de Janeiro
+135,Ana Moreira,ana.moreira135@email.com,Nova Iguaçu
+136,Bernardo Oliveira,bernardo.oliveira136@email.com,Niterói
+137,João Costa,joão.costa137@email.com,Rio de Janeiro
+138,Yasmin Barros,yasmin.barros138@email.com,São Gonçalo
+139,Otávia Freitas,otávia.freitas139@email.com,Cabo Frio
+140,Queila Pereira,queila.pereira140@email.com,Cabo Frio
+141,Queila Nascimento,queila.nascimento141@email.com,Volta Redonda
+142,Bruno Moreira,bruno.moreira142@email.com,São Gonçalo
+143,Yasmin Nascimento,yasmin.nascimento143@email.com,Rio de Janeiro
+144,Isabela Barros,isabela.barros144@email.com,São Gonçalo
+145,Henrique Araújo,henrique.araújo145@email.com,Volta Redonda
+146,Rafael Barros,rafael.barros146@email.com,Belford Roxo
+147,Felipe Oliveira,felipe.oliveira147@email.com,Petrópolis
+148,Rafael Cardoso,rafael.cardoso148@email.com,Belford Roxo
+149,Bruno Carvalho,bruno.carvalho149@email.com,Cabo Frio
+150,Queila Cardoso,queila.cardoso150@email.com,São João de Meriti
+151,Rafael Teixeira,rafael.teixeira151@email.com,Nova Iguaçu
+152,João Rocha,joão.rocha152@email.com,São Gonçalo
+153,Pedro Carvalho,pedro.carvalho153@email.com,Volta Redonda
+154,Karina Gomes,karina.gomes154@email.com,Volta Redonda
+155,Ursula Carvalho,ursula.carvalho155@email.com,Cabo Frio
+156,Nicolas Barros,nicolas.barros156@email.com,Petrópolis
+157,Zeca Moreira,zeca.moreira157@email.com,Nova Iguaçu
+158,Felipe Araújo,felipe.araújo158@email.com,São Gonçalo
+159,João Moreira,joão.moreira159@email.com,Niterói
+160,Carla Cardoso,carla.cardoso160@email.com,Petrópolis
+161,Ana Oliveira,ana.oliveira161@email.com,Rio de Janeiro
+162,Camila Souza,camila.souza162@email.com,Rio de Janeiro
+163,Elaine Ribeiro,elaine.ribeiro163@email.com,Petrópolis
+164,Ursula Lima,ursula.lima164@email.com,Cabo Frio
+165,Ursula Lima,ursula.lima165@email.com,Niterói
+166,Henrique Oliveira,henrique.oliveira166@email.com,Niterói
+167,Zeca Carvalho,zeca.carvalho167@email.com,Petrópolis
+168,Carla Almeida,carla.almeida168@email.com,Rio de Janeiro
+169,Karina Carvalho,karina.carvalho169@email.com,São João de Meriti
+170,Bruno Araújo,bruno.araújo170@email.com,Duque de Caxias
+171,Ursula Cardoso,ursula.cardoso171@email.com,Volta Redonda
+172,Ximena Rocha,ximena.rocha172@email.com,Niterói
+173,João Ribeiro,joão.ribeiro173@email.com,Nova Iguaçu
+174,Bernardo Araújo,bernardo.araújo174@email.com,Volta Redonda
+175,Thiago Freitas,thiago.freitas175@email.com,Belford Roxo
+176,Sofia Moreira,sofia.moreira176@email.com,São João de Meriti
+177,Elaine Nascimento,elaine.nascimento177@email.com,Duque de Caxias
+178,Nicolas Teixeira,nicolas.teixeira178@email.com,São João de Meriti
+179,Ximena Ribeiro,ximena.ribeiro179@email.com,Belford Roxo
+180,Elaine Silva,elaine.silva180@email.com,São Gonçalo
+181,Lucas Araújo,lucas.araújo181@email.com,São Gonçalo
+182,Danilo Barros,danilo.barros182@email.com,Nova Iguaçu
+183,Gabriela Costa,gabriela.costa183@email.com,Volta Redonda
+184,Gabriela Rocha,gabriela.rocha184@email.com,Volta Redonda
+185,Zeca Pereira,zeca.pereira185@email.com,São Gonçalo
+186,Gabriela Costa,gabriela.costa186@email.com,São Gonçalo
+187,Gabriela Moreira,gabriela.moreira187@email.com,São Gonçalo
+188,Camila Silva,camila.silva188@email.com,Nova Iguaçu
+189,Thiago Costa,thiago.costa189@email.com,Rio de Janeiro
+190,Mariana Silva,mariana.silva190@email.com,Niterói
+191,Queila Lima,queila.lima191@email.com,Belford Roxo
+192,Isabela Nascimento,isabela.nascimento192@email.com,São Gonçalo
+193,Gabriela Correia,gabriela.correia193@email.com,São João de Meriti
+194,Lucas Silva,lucas.silva194@email.com,Volta Redonda
+195,Felipe Nascimento,felipe.nascimento195@email.com,Belford Roxo
+196,Queila Costa,queila.costa196@email.com,São João de Meriti
+197,Felipe Rocha,felipe.rocha197@email.com,Petrópolis
+198,Pedro Teixeira,pedro.teixeira198@email.com,Petrópolis
+199,Isabela Barros,isabela.barros199@email.com,Volta Redonda
+200,Ursula Gomes,ursula.gomes200@email.com,São João de Meriti
+201,Elaine Freitas,elaine.freitas201@email.com,São Gonçalo
+202,Bernardo Dias,bernardo.dias202@email.com,Rio de Janeiro
+203,Karina Oliveira,karina.oliveira203@email.com,Cabo Frio
+204,Carla Araújo,carla.araújo204@email.com,São João de Meriti
+205,Mariana Correia,mariana.correia205@email.com,Duque de Caxias
+206,Ximena Pereira,ximena.pereira206@email.com,Belford Roxo
+207,Bruno Correia,bruno.correia207@email.com,São Gonçalo
+208,Wesley Teixeira,wesley.teixeira208@email.com,Niterói
+209,Ursula Nascimento,ursula.nascimento209@email.com,São Gonçalo
+210,Carla Teixeira,carla.teixeira210@email.com,Duque de Caxias
+211,Gabriela Teixeira,gabriela.teixeira211@email.com,Duque de Caxias
+212,Danilo Dias,danilo.dias212@email.com,Cabo Frio
+213,Felipe Silva,felipe.silva213@email.com,Petrópolis
+214,Felipe Rocha,felipe.rocha214@email.com,São Gonçalo
+215,Sofia Dias,sofia.dias215@email.com,Cabo Frio
+216,Gabriela Cardoso,gabriela.cardoso216@email.com,São Gonçalo
+217,Diego Cardoso,diego.cardoso217@email.com,Petrópolis
+218,Vinícius Dias,vinícius.dias218@email.com,Niterói
+219,Ursula Ribeiro,ursula.ribeiro219@email.com,Duque de Caxias
+220,Rafael Correia,rafael.correia220@email.com,São Gonçalo
+221,Henrique Rocha,henrique.rocha221@email.com,Petrópolis
+222,Ursula Barros,ursula.barros222@email.com,Duque de Caxias
+223,Zeca Dias,zeca.dias223@email.com,Volta Redonda
+224,Gabriela Carvalho,gabriela.carvalho224@email.com,Volta Redonda
+225,João Gomes,joão.gomes225@email.com,Belford Roxo
+226,Diego Nascimento,diego.nascimento226@email.com,São João de Meriti
+227,Ximena Nascimento,ximena.nascimento227@email.com,Duque de Caxias
+228,Felipe Freitas,felipe.freitas228@email.com,Nova Iguaçu
+229,Henrique Silva,henrique.silva229@email.com,Cabo Frio
+230,Karina Gomes,karina.gomes230@email.com,Nova Iguaçu
+231,Sofia Nascimento,sofia.nascimento231@email.com,Cabo Frio
+232,Wesley Pereira,wesley.pereira232@email.com,São Gonçalo
+233,Camila Teixeira,camila.teixeira233@email.com,Cabo Frio
+234,Aline Dias,aline.dias234@email.com,São João de Meriti
+235,Ana Rocha,ana.rocha235@email.com,Cabo Frio
+236,Felipe Teixeira,felipe.teixeira236@email.com,Niterói
+237,Felipe Souza,felipe.souza237@email.com,Petrópolis
+238,Henrique Moreira,henrique.moreira238@email.com,São João de Meriti
+239,Yasmin Araújo,yasmin.araújo239@email.com,São João de Meriti
+240,Ximena Pereira,ximena.pereira240@email.com,Duque de Caxias
+241,Pedro Carvalho,pedro.carvalho241@email.com,São Gonçalo
+242,Sofia Correia,sofia.correia242@email.com,Volta Redonda
+243,Henrique Oliveira,henrique.oliveira243@email.com,São Gonçalo
+244,Ana Pereira,ana.pereira244@email.com,São Gonçalo
+245,Zeca Barros,zeca.barros245@email.com,Belford Roxo
+246,Ximena Souza,ximena.souza246@email.com,Volta Redonda
+247,Gabriela Rocha,gabriela.rocha247@email.com,Rio de Janeiro
+248,Camila Souza,camila.souza248@email.com,Nova Iguaçu
+249,Yasmin Correia,yasmin.correia249@email.com,São João de Meriti
+250,Thiago Teixeira,thiago.teixeira250@email.com,Volta Redonda
